@@ -1,1 +1,1 @@
-# epanel
+# Aurora Panel
